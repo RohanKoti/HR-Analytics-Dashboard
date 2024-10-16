@@ -10,3 +10,6 @@
 1.	Boost income in underperforming departments like HR and Sales.
 2.	Improve opportunities for employees with non-Life Science degrees.
 3.	Address gender-based income disparities across departments.
+
+Dashboard
+![image1](https://github.com/RohanKoti/HR-Analytics-Dashboard/blob/main/HR.PNG?raw=true)
